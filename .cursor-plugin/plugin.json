@@ -7,5 +7,5 @@
   "repository": "https://github.com/DocuGrip/docugrip-cursor-plugin",
   "license": "MIT",
   "keywords": ["pdf", "compress pdf", "merge pdf", "pdf converter", "upload limits", "official forms", "mcp"],
-  "logo": "assets/logo.png"
+  "logo": "https://raw.githubusercontent.com/DocuGrip/docugrip-cursor-plugin/main/assets/logo.png"
 }
