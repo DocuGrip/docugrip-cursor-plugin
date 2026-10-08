@@ -12,8 +12,9 @@ Describe a PDF task in plain language ("compress this to under 2 MB", "turn thes
 |---|---|
 | `list_pdf_tools` | Lists DocuGrip's PDF tools by family |
 | `find_pdf_tool` | Finds the right tool for a task described in plain language |
+| `plan_pdf_job` | Turns a job with several steps into ordered steps with their pages, the runs it takes, and the plan that fits when it needs more than the daily allowance |
 | `get_pdf_tool` | Details and link for one tool |
-| `get_upload_requirements` | Official upload limits of portals such as IRCC, USCIS, USAJOBS and the IRS, with sources |
+| `get_upload_requirements` | Official upload limits of 50 portals and services — IRCC, USCIS, Gmail, LinkedIn, UCAS and more — with sources |
 | `find_official_form` | Finds official forms such as W-9, 1099-NEC or I-130, with the current edition |
 | `get_plans` | Current plans and prices, with direct links |
 
